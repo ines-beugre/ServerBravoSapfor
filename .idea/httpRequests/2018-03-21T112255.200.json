@@ -1,0 +1,39 @@
+{
+  "candidaturesDTO": [
+    {
+      "idAgent": "agent1",
+      "idCandidature": "3d35e520",
+      "idSessionUV": "session1",
+      "position": "0",
+      "qualite": "apprenant"
+    },
+    {
+      "idAgent": "agent2",
+      "idCandidature": "51ffee13",
+      "idSessionUV": "session2",
+      "position": "0",
+      "qualite": "apprenant"
+    },
+    {
+      "idAgent": "agent3",
+      "idCandidature": "9bdead0",
+      "idSessionUV": "session3",
+      "position": "0",
+      "qualite": "apprenant"
+    },
+    {
+      "idAgent": "agent1",
+      "idCandidature": "7ff40ab",
+      "idSessionUV": "session2",
+      "position": "0",
+      "qualite": "apprenant"
+    },
+    {
+      "idAgent": "agent3",
+      "idCandidature": "15f1b991",
+      "idSessionUV": "session1",
+      "position": "0",
+      "qualite": "apprenant"
+    }
+  ]
+}

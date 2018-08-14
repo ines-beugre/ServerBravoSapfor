@@ -1,0 +1,364 @@
+POST http://localhost:8080/ServerBravoSapfor/webresources/832e37ada0b571c0ebcd61536c78/sessions/test?log=login1&mdp=mdp1&idS=session1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T115517.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/82789feb078b09108feb3a49ddd0/sessions/test?log=login1&mdp=mdp1&idS=session
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/82789feb078b09108feb3a49ddd0/sessions/test?log=login1&mdp=mdp1&idS=session&idS=session1&idS=session1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/82789feb078b09108feb3a49ddd0/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T115102.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/82789feb078b09108feb3a49ddd0/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T115045.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/82789feb078b09108feb3a49ddd0/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T114330.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/82789feb078b09108feb3a49ddd0/sessions/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T114318.201.json
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T114253.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/81e5881875ecd6868651b2be5375/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+session1
+
+<> 2018-03-21T113313.200.txt
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T113251.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/81a933880e58bbd3b83278dd5a3f/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+idSessionDTO=session1
+
+<> 2018-03-21T113009.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/81a933880e58bbd3b83278dd5a3f/sessions/test?idSessionDTO=session1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T112843.200.txt
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/candidature
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T112343.200.json
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/candidature
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T112342.200.json
+
+###
+
+DELETE http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/candidature/15f1b991
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T112333.200.txt
+
+###
+
+DELETE http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/candidature/15f1b991
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T112323.200.txt
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/candidature
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T112255.200.json
+
+###
+
+DELETE http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/candidature?idSessionDTO=session1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/sessions/test?idSessionDTO=session1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T111728.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/sessions/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T111709.201.json
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/sessions/post?idSessionDTO=session1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/80ea7e28eefd45ee3643d380d0c7/sessions/test?idSessionDTO=session1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T111542.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/807fdb24d286ed36775490e27d14/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T110912.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/807fdb24d286ed36775490e27d14/sessions/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T110907.201.json
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/807fdb24d286ed36775490e27d14/sessions/post
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/807fdb24d286ed36775490e27d14/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T110826.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/8034027f03850126858779e84304/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T110636.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/8034027f03850126858779e84304/sessions/test
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T110337.200.txt
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T110315.200.txt
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/7ff8d31f873bc5a5bf8325e7e412/sessions/listeSessionDTO?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T110012.200.json
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/7ff8d31f873bc5a5bf8325e7e412/sessions/listeSessionDTO?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/7ff8d31f873bc5a5bf8325e7e412/sessions/test?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T105912.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/7fb56f5089ed07ca590ae34328bb/candidature?s=essai
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T105436.200.txt
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/7f5ab8174efde4b506f0da425eb1/candidature?idSessionDTO=session1&qualite=formateur
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T105019.200.json
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/7f5ab8174efde4b506f0da425eb1/candidature?idSessionDTO=session1&qualite=formateur
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/7f5ab8174efde4b506f0da425eb1/sessions/cand?idSessionDTO=session1&qualite=formateur
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/7f5ab8174efde4b506f0da425eb1/sessions/cand?idSessionDTO=session1&qualite=formateur
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/7f5ab8174efde4b506f0da425eb1/candidature?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T104842.200.json
+
+###
+
+GET http://localhost:8080/ServerBravoSapfor/webresources/authentification/login?log=login1&mdp=mdp1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-21T104825.200.txt
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/7e7850749844706fe9d5cbde2596/sessions/cand?idSessionDTO=session1&qualite=formateur
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/7dc9a38063e32b6fc144fc3e6f71/sessions/cand?idSessionDTO=session1&qualite=formateur
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/ServerBravoSapfor/webresources/7dc9a38063e32b6fc144fc3e6f71/sessions/cand?idSessionDTO=session1&qualite=apprenant
+Accept: */*
+Cache-Control: no-cache
+
+###
+

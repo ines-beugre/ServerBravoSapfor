@@ -1,0 +1,16 @@
+{
+  "sessionsDTO": [
+    {
+      "idSession": "session1",
+      "intitule": "Premiers Secours"
+    },
+    {
+      "idSession": "session2",
+      "intitule": "Initiation Camion"
+    },
+    {
+      "idSession": "session3",
+      "intitule": "Expertise Camion"
+    }
+  ]
+}
